@@ -1,5 +1,4 @@
-import javax.lang.model.util.ElementScanner14;
-
+package joao.victor.primeirasemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 5;
